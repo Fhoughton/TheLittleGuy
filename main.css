@@ -1,0 +1,7 @@
+form.main-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.search { background-color: #75FF00; border: none; color: white; padding: 5px 16px; text-align: center; font-size: 12px; font-family: "Times New Roman";}
